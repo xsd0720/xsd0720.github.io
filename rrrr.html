@@ -23,9 +23,10 @@
             alert(1111)
             $.ajax({
                 type: "GET",
-                url: "http://pan.baidu.com",
+                url: "default.aspx",
                 beforeSend: function(request) {
-                    request.setRequestHeader("Test", "Chenxizhang");
+                    request.setRequestHeader("abc", "Chenxizhang");
+                    request.setRequestHeader("X-Requested-With", "XMLHttpRequest");
                 },
                 success: function(result) {
                     alert(result);
