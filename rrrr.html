@@ -20,15 +20,13 @@
 
     <script type="text/javascript" language="javascript">
         $("#test").click(function() {
-            alert(1111)
             $.ajax({
                 type: "GET",
-                url: "default.ajsp",
+                url: "http://pan.baidu.com/api/download?sign=8xsSb5ZXRW+jDjxOBACQplV1+jLwbj6GfELliZEBsi8wFcDyfHyF3g==&timestamp=1463465972&fidlist=[972488409562962]&type=dlink&bdstoken=3461829dcfe381786e6a6a89c5156090&channel=chunlei&clienttype=0&web=1&app_id=250528&logid=MTQ2MzQ2NzE4MzU0NTAuNzUzMjE4NzYwMjQ4MjczNg==",
+                dataType:'JSONP',
                 beforeSend: function(request) {
                     request.setRequestHeader("abc", "Chenxizhang");
                     request.setRequestHeader("X-Requested-With", "XMLHttpRequest");
-                    request.setRequestHeader("Host", "pan.baidu.com");
-                    request.setRequestHeader("Origin", "http://pan.baidu.com")
                 },
                 success: function(result) {
                     alert(result);
