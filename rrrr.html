@@ -23,7 +23,7 @@
             $.ajax({
                 type: "GET",
                 url: "http://pan.baidu.com/api/download?sign=JAMvFimF66RV7MI9iZeh9naOuDH6JpfbaFMgbpg34RZLVHJc%2FAzkMA%3D%3D&timestamp=1463479536&fidlist=%5B972488409562962%5D&type=dlink&bdstoken=3461829dcfe381786e6a6a89c5156090&channel=chunlei&clienttype=0&web=1&app_id=250528&logid=MTQ2MzQ3OTU5NzkyMTAuMjY0ODk4NzExMTE2OTg0NQ==",
-                dataType:'jsonp',
+                dataType:"jsonp",
                 beforeSend: function(request) {
                     request.setRequestHeader("abc", "Chenxizhang");
                     request.setRequestHeader("X-Requested-With", "XMLHttpRequest");
