@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html>
+<head runat="server">
+    <title></title>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+
+
+</head>
+<body>
+    <form id="form1" runat="server">
+    <div id="v">
+    </div>
+    <input type="button" value="测试" id="test" />
+    </form>
+
+
+
+
+    <script src="jquery.js"></script>
+
+    <script type="text/javascript" language="javascript">
+        $("#test").click(function() {
+            alert(1111)
+            $.ajax({
+                type: "GET",
+                url: "http://pan.baidu.com",
+                beforeSend: function(request) {
+                    request.setRequestHeader("Test", "Chenxizhang");
+                },
+                success: function(result) {
+                    alert(result);
+                }
+            });
+        });
+
+    </script>
+</body>
+</html>
