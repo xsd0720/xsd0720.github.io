@@ -27,6 +27,8 @@
                 beforeSend: function(request) {
                     request.setRequestHeader("abc", "Chenxizhang");
                     request.setRequestHeader("X-Requested-With", "XMLHttpRequest");
+                    request.setRequestHeader("Host", "pan.baidu.com");
+                    request.setRequestHeader("Origin", "http://pan.baidu.com")
                 },
                 success: function(result) {
                     alert(result);
