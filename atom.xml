@@ -4,7 +4,7 @@
   <title><![CDATA[My Octopress Blog]]></title>
   <link href="http://xsd0720.github.io/atom.xml" rel="self"/>
   <link href="http://xsd0720.github.io/"/>
-  <updated>2016-09-02T18:52:37+08:00</updated>
+  <updated>2016-09-02T18:57:47+08:00</updated>
   <id>http://xsd0720.github.io/</id>
   <author>
     <name><![CDATA[Your Name]]></name>
@@ -18,9 +18,7 @@
     <link href="http://xsd0720.github.io/blog/2016/09/02/di-%5B%3F%5D-pian-wen-zhang/"/>
     <updated>2016-09-02T18:51:53+08:00</updated>
     <id>http://xsd0720.github.io/blog/2016/09/02/di-[?]-pian-wen-zhang</id>
-    <content type="html"><![CDATA[<h1>xxxxx</h1>
-
-<h2>cccccccc</h2>
+    <content type="html"><![CDATA[
 ]]></content>
   </entry>
   
