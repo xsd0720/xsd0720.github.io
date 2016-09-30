@@ -1,0 +1,157 @@
+{
+  "MV": [
+    "http://vod165.bbn.com.cn/vod/fromHB/4Kyingyuan/laopao_baoer/laopao_baoer_clip_Media_Url_768k_vol_0.mp4.m3u8"
+  ],
+  "WS": [
+    {
+      "tvName": "浙江卫视",
+      "tvURL": "http://live134.bbn.com.cn/live/hls/1000.m3u8"
+    },
+    {
+      "tvName": "嘉佳卡通",
+      "tvURL": "http://live142.bbn.com.cn/live/hls/1025.m3u8"
+    },
+    {
+      "tvName": "江苏卫视",
+      "tvURL": "http://live135.bbn.com.cn/live/hls/1001.m3u8"
+    },
+    {
+      "tvName": "东方卫视",
+      "tvURL": "http://live136.bbn.com.cn/live/hls/1002.m3u8"
+    },
+    {
+      "tvName": "深圳卫视",
+      "tvURL": "http://live134.bbn.com.cn/live/hls/1010.m3u8"
+    },
+    {
+      "tvName": "北京卫视",
+      "tvURL": "http://live135.bbn.com.cn/live/hls/1011.m3u8"
+    },
+    {
+      "tvName": "广东卫视",
+      "tvURL": "http://live136.bbn.com.cn/live/hls/1012.m3u8"
+    },
+    {
+      "tvName": "山东卫视",
+      "tvURL": "http://live147.bbn.com.cn/live/hls/1009.m3u8"
+    },
+    {
+      "tvName": "黑龙江卫视",
+      "tvURL": "http://live136.bbn.com.cn/live/hls/1022.m3u8"
+    },
+    {
+      "tvName": "安徽卫视",
+      "tvURL": "http://live138.bbn.com.cn/live/hls/1003.m3u8"
+    },
+    {
+      "tvName": "天津卫视",
+      "tvURL": "http://live138.bbn.com.cn/live/hls/1004.m3u8"
+    },
+    {
+      "tvName": "湖北卫视",
+      "tvURL": "http://live144.bbn.com.cn/live/hls/1016.m3u8"
+    },
+    {
+      "tvName": "河北卫视",
+      "tvURL": "http://live145.bbn.com.cn/live/hls/1017.m3u8"
+    },
+    {
+      "tvName": "江西卫视",
+      "tvURL": "http://live144.bbn.com.cn/live/hls/1024.m3u8"
+    },
+    {
+      "tvName": "内蒙古卫视",
+      "tvURL": "http://live142.bbn.com.cn/live/hls/1005.m3u8"
+    },
+    {
+      "tvName": "东南卫视",
+      "tvURL": "http://live147.bbn.com.cn/live/hls/1019.m3u8"
+    },
+    {
+      "tvName": "吉林卫视",
+      "tvURL": "http://live145.bbn.com.cn/live/hls/1007.m3u8"
+    },
+    {
+      "tvName": "重庆卫视",
+      "tvURL": "http://live145.bbn.com.cn/live/hls/1014.m3u8"
+    },
+    {
+      "tvName": "旅游卫视",
+      "tvURL": "http://live134.bbn.com.cn/live/hls/1020.m3u8"
+    },
+    {
+      "tvName": "河南卫视",
+      "tvURL": "http://live138.bbn.com.cn/live/hls/1013.m3u8"
+    },
+    {
+      "tvName": "广西卫视",
+      "tvURL": "http://live144.bbn.com.cn/live/hls/1006.m3u8"
+    },
+    {
+      "tvName": "四川卫视",
+      "tvURL": "http://live142.bbn.com.cn/live/hls/1015.m3u8"
+    },
+    {
+      "tvName": "辽宁卫视",
+      "tvURL": "http://live146.bbn.com.cn/live/hls/1018.m3u8"
+    },
+    {
+      "tvName": "宁夏卫视",
+      "tvURL": "http://live138.bbn.com.cn/live/hls/1023.m3u8"
+    },
+    {
+      "tvName": "青海卫视",
+      "tvURL": "http://live135.bbn.com.cn/live/hls/1021.m3u8"
+    },
+    {
+      "tvName": "山西卫视",
+      "tvURL": "http://live146.bbn.com.cn/live/hls/1008.m3u8"
+    },
+    {
+      "tvName": "卡酷动画",
+      "tvURL": "http://live144.bbn.com.cn/live/hls/1026.m3u8?"
+    }
+  ],
+  "CCTV": [
+    {
+      "tvName": "CCTV-1",
+      "tvURL": "http://live145.bbn.com.cn/live/hls/1027.m3u8"
+    },
+    {
+      "tvName": "CCTV-2",
+      "tvURL": "http://live146.bbn.com.cn/live/hls/1028.m3u8"
+    },
+    {
+      "tvName": "CCTV-3",
+      "tvURL": "http://live136.bbn.com.cn/live/hls/1032.m3u8"
+    },
+    {
+      "tvName": "CCTV-4",
+      "tvURL": "http://live138.bbn.com.cn/live/hls/1033.m3u8"
+    },
+    {
+      "tvName": "CCTV-5",
+      "tvURL": "http://live136.bbn.com.cn/live/hls/1034.m3u8"
+    },
+    {
+      "tvName": "CCTV-6",
+      "tvURL": "http://live142.bbn.com.cn/live/hls/1035.m3u8"
+    },
+    {
+      "tvName": "CCTV-7",
+      "tvURL": "http://live147.bbn.com.cn/live/hls/1029.m3u8"
+    },
+    {
+      "tvName": "CCTV-8",
+      "tvURL": "http://live144.bbn.com.cn/live/hls/1036.m3u8"
+    },
+    {
+      "tvName": "CCTV-9",
+      "tvURL": "http://live134.bbn.com.cn/live/hls/1030.m3u8"
+    },
+    {
+      "tvName": "CCTV-13",
+      "tvURL": "http://live146.bbn.com.cn/live/hls/1038.m3u8"
+    }
+  ]
+}
