@@ -1,0 +1,334 @@
+[
+  {
+    "tvURL" : "http://111.39.226.103:8112/120000001001/wlds:8080/ysten-business/live/hdcctv01/.m3u8",
+    "tvName" : "CCTV-1HD"
+  },
+  {
+    "tvURL" : "http://111.39.226.103:8112/120000001001/wlds:8080/ysten-business/live/cctv-2/.m3u8",
+    "tvName" : "CCTV-2"
+  },
+  {
+    "tvURL" : "http://111.39.226.103:8112/120000001001/wlds:8080/ysten-business/live/cctv-3/.m3u8",
+    "tvName" : "CCTV-3HD"
+  },
+  {
+    "tvURL" : "http://111.39.226.103:8112/120000001001/wlds:8080/ysten-business/live/cctv-4/.m3u8",
+    "tvName" : "CCTV-4"
+  },
+  {
+    "tvURL" : "http://111.39.226.103:8112/120000001001/wlds:8080/ysten-business/live/cctv-5/.m3u8",
+    "tvName" : "CCTV-5HD"
+  },
+  {
+    "tvURL" : "http://111.39.226.103:8112/120000001001/wlds:8080/ysten-business/live/hdcctv05plus/.m3u8",
+    "tvName" : "CCTV-5+HD"
+  },
+  {
+    "tvURL" : "http://111.39.226.103:8112/120000001001/wlds:8080/ysten-business/live/cctv-6/.m3u8",
+    "tvName" : "CCTV-6HD"
+  },
+  {
+    "tvURL" : "http://111.39.226.103:8112/120000001001/wlds:8080/ysten-business/live/cctv-7/.m3u8",
+    "tvName" : "CCTV-7"
+  },
+  {
+    "tvURL" : "http://111.39.226.103:8112/120000001001/wlds:8080/ysten-business/live/cctv-8/.m3u8",
+    "tvName" : "CCTV-8HD"
+  },
+  {
+    "tvURL" : "http://111.39.226.103:8112/120000001001/wlds:8080/ysten-business/live/cctv-news/.m3u8",
+    "tvName" : "CCTV-9"
+  },
+  {
+    "tvURL" : "http://111.39.226.103:8112/120000001001/wlds:8080/ysten-business/live/cctv-9/.m3u8",
+    "tvName" : "CCTV-9英"
+  },
+  {
+    "tvURL" : "http://111.39.226.103:8112/120000001001/wlds:8080/ysten-business/live/cctv-10/.m3u8",
+    "tvName" : "CCTV-10"
+  },
+  {
+    "tvURL" : "http://111.39.226.103:8112/120000001001/wlds:8080/ysten-business/live/cctv-11/.m3u8",
+    "tvName" : "CCTV-11"
+  },
+  {
+    "tvURL" : "http://111.39.226.103:8112/120000001001/wlds:8080/ysten-business/live/cctv-12/.m3u8",
+    "tvName" : "CCTV-12"
+  },
+  {
+    "tvURL" : "http://111.39.226.103:8112/120000001001/wlds:8080/ysten-business/live/cctv-13/.m3u8",
+    "tvName" : "CCTV-13"
+  },
+  {
+    "tvURL" : "http://111.39.226.103:8112/120000001001/wlds:8080/ysten-business/live/cctv-14/.m3u8",
+    "tvName" : "CCTV-14"
+  },
+  {
+    "tvURL" : "http://111.39.226.103:8112/120000001001/wlds:8080/ysten-business/live/cctv-15/.m3u8",
+    "tvName" : "CCTV-15"
+  },
+  {
+    "tvURL" : "http://111.39.226.103:8112/120000001001/wlds:8080/ysten-business/live/cctvno1theater/.m3u8",
+    "tvName" : "CCTV-第一剧场"
+  },
+  {
+    "tvURL" : "http://111.39.226.103:8112/120000001001/wlds:8080/ysten-business/live/cctvfootbal/.m3u8",
+    "tvName" : "CCTV-风云足球"
+  },
+  {
+    "tvURL" : "http://111.39.226.103:8112/120000001001/wlds:8080/ysten-business/live/jiaoyutv/.m3u8",
+    "tvName" : "CETV1中国教育"
+  },
+  {
+    "tvURL" : "http://111.39.226.103:8112/120000001001/wlds:8080/ysten-business/live/tvb8/dujuejiami.m3u8",
+    "tvName" : "TVB8"
+  },
+  {
+    "tvURL" : "http://111.39.226.103:8112/120000001001/wlds:8080/ysten-business/live/huayutv/.m3u8",
+    "tvName" : "华娱卫视"
+  },
+  {
+    "tvURL" : "http://111.39.226.103:8112/120000001001/wlds:8080/ysten-business/live/yangguangstv/.m3u8",
+    "tvName" : "阳光卫视"
+  },
+  {
+    "tvURL" : "http://111.39.226.103:8112/120000001001/wlds:8080/ysten-business/live/aomenlianhua/.m3u8",
+    "tvName" : "澳门莲花"
+  },
+  {
+    "tvURL" : "http://111.39.226.103:8112/120000001001/wlds:8080/ysten-business/live/fhchinese/.m3u8",
+    "tvName" : "凤凰中文HD"
+  },
+  {
+    "tvURL" : "http://111.39.226.103:8112/120000001001/wlds:8080/ysten-business/live/fhzixun/.m3u8",
+    "tvName" : "凤凰资讯HD"
+  },
+  {
+    "tvURL" : "http://111.39.226.103:8112/120000001001/wlds:8080/ysten-business/live/fhhongkong/.m3u8",
+    "tvName" : "凤凰香港HD"
+  },
+  {
+    "tvURL" : "http://111.39.226.103:8112/120000001001/wlds:8080/ysten-business/live/hdhunanstv/.m3u8",
+    "tvName" : "湖南卫视HD"
+  },
+  {
+    "tvURL" : "http://111.39.226.103:8112/120000001001/wlds:8080/ysten-business/live/hdbeijingstv/.m3u8",
+    "tvName" : "北京卫视HD"
+  },
+  {
+    "tvURL" : "http://111.39.226.103:8112/120000001001/wlds:8080/ysten-business/live/hdshenzhenstv/.m3u8",
+    "tvName" : "深圳卫视HD"
+  },
+  {
+    "tvURL" : "http://111.39.226.103:8112/120000001001/wlds:8080/ysten-business/live/hddongfangstv/.m3u8",
+    "tvName" : "东方卫视HD"
+  },
+  {
+    "tvURL" : "http://111.39.226.103:8112/120000001001/wlds:8080/ysten-business/live/hdjiangsustv/.m3u8",
+    "tvName" : "江苏卫视HD"
+  },
+  {
+    "tvURL" : "http://111.39.226.103:8112/120000001001/wlds:8080/ysten-business/live/hdzhejiangstv/.m3u8",
+    "tvName" : "浙江卫视HD"
+  },
+  {
+    "tvURL" : "http://111.39.226.103:8112/120000001001/wlds:8080/ysten-business/live/hdguangdongstv/.m3u8",
+    "tvName" : "广东卫视HD"
+  },
+  {
+    "tvURL" : "http://111.39.226.103:8112/120000001001/wlds:8080/ysten-business/live/hdtianjinstv/.m3u8",
+    "tvName" : "天津卫视HD"
+  },
+  {
+    "tvURL" : "http://111.39.226.103:8112/120000001001/wlds:8080/ysten-business/live/hdshandongstv/.m3u8",
+    "tvName" : "山东卫视HD"
+  },
+  {
+    "tvURL" : "http://111.39.226.103:8112/120000001001/wlds:8080/ysten-business/live/jiangxistv/.m3u8",
+    "tvName" : "江西卫视HD"
+  },
+  {
+    "tvURL" : "http://111.39.226.103:8112/120000001001/wlds:8080/ysten-business/live/hdhubeistv/.m3u8",
+    "tvName" : "湖北卫视HD"
+  },
+  {
+    "tvURL" : "http://111.39.226.103:8112/120000001001/wlds:8080/ysten-business/live/hdheilongjiangstv/.m3u8",
+    "tvName" : "黑龙江卫视HD"
+  },
+  {
+    "tvURL" : "http://111.39.226.103:8112/120000001001/wlds:8080/ysten-business/live/sichuanstv/.m3u8",
+    "tvName" : "四川卫视"
+  },
+  {
+    "tvURL" : "http://111.39.226.103:8112/120000001001/wlds:8080/ysten-business/live/anhuistv/.m3u8",
+    "tvName" : "安徽卫视"
+  },
+  {
+    "tvURL" : "http://111.39.226.103:8112/120000001001/wlds:8080/ysten-business/live/liaoningstv/.m3u8",
+    "tvName" : "辽宁卫视"
+  },
+  {
+    "tvURL" : "http://111.39.226.103:8112/120000001001/wlds:8080/ysten-business/live/hebeistv/.m3u8",
+    "tvName" : "河北卫视"
+  },
+  {
+    "tvURL" : "http://111.39.226.103:8112/120000001001/wlds:8080/ysten-business/live/chongqingstv/.m3u8",
+    "tvName" : "重庆卫视"
+  },
+  {
+    "tvURL" : "http://111.39.226.103:8112/120000001001/wlds:8080/ysten-business/live/dongnanstv/.m3u8",
+    "tvName" : "东南卫视"
+  },
+  {
+    "tvURL" : "http://111.39.226.103:8112/120000001001/wlds:8080/ysten-business/live/gansustv/.m3u8",
+    "tvName" : "甘肃卫视"
+  },
+  {
+    "tvURL" : "http://111.39.226.103:8112/120000001001/wlds:8080/ysten-business/live/jilinstv/.m3u8",
+    "tvName" : "吉林卫视"
+  },
+  {
+    "tvURL" : "http://111.39.226.103:8112/120000001001/wlds:8080/ysten-business/live/shanxistv/.m3u8",
+    "tvName" : "山西卫视"
+  },
+  {
+    "tvURL" : "http://111.39.226.103:8112/120000001001/wlds:8080/ysten-business/live/shanxi1stv/.m3u8",
+    "tvName" : "陕西卫视"
+  },
+  {
+    "tvURL" : "http://111.39.226.103:8112/120000001001/wlds:8080/ysten-business/live/guangxistv/.m3u8",
+    "tvName" : "广西卫视"
+  },
+  {
+    "tvURL" : "http://111.39.226.103:8112/120000001001/wlds:8080/ysten-business/live/guizhoustv/.m3u8",
+    "tvName" : "贵州卫视"
+  },
+  {
+    "tvURL" : "http://111.39.226.103:8112/120000001001/wlds:8080/ysten-business/live/henanstv/.m3u8",
+    "tvName" : "河南卫视"
+  },
+  {
+    "tvURL" : "http://111.39.226.103:8112/120000001001/wlds:8080/ysten-business/live/neimenggustv/.m3u8",
+    "tvName" : "内蒙古卫视"
+  },
+  {
+    "tvURL" : "http://111.39.226.103:8112/120000001001/wlds:8080/ysten-business/live/ningxiastv/.m3u8",
+    "tvName" : "宁夏卫视"
+  },
+  {
+    "tvURL" : "http://111.39.226.103:8112/120000001001/wlds:8080/ysten-business/live/xinjiangstv/.m3u8",
+    "tvName" : "新疆卫视"
+  },
+  {
+    "tvURL" : "http://111.39.226.103:8112/120000001001/wlds:8080/ysten-business/live/xizangstv/.m3u8",
+    "tvName" : "西藏卫视"
+  },
+  {
+    "tvURL" : "http://111.39.226.103:8112/120000001001/wlds:8080/ysten-business/live/yunnanstv/.m3u8",
+    "tvName" : "云南卫视"
+  },
+  {
+    "tvURL" : "http://111.39.226.103:8112/120000001001/wlds:8080/ysten-business/live/lvyoustv/.m3u8",
+    "tvName" : "旅游卫视"
+  },
+  {
+    "tvURL" : "http://111.39.226.103:8112/120000001001/wlds:8080/ysten-business/live/shandongjy/.m3u8",
+    "tvName" : "山东教育"
+  },
+  {
+    "tvURL" : "http://111.39.226.103:8112/120000001001/wlds:8080/ysten-business/live/diyicaijing/.m3u8",
+    "tvName" : "第一财经"
+  },
+  {
+    "tvURL" : "http://111.39.226.103:8112/120000001001/wlds:8080/ysten-business/live/kakukaton/.m3u8",
+    "tvName" : "卡酷少儿"
+  },
+  {
+    "tvURL" : "http://111.39.226.103:8112/120000001001/wlds:8080/ysten-business/live/jinyingkaton/.m3u8",
+    "tvName" : "金鹰卡通"
+  },
+  {
+    "tvURL" : "http://111.39.226.103:8112/120000001001/wlds:8080/ysten-business/live/xuandongkaton/.m3u8",
+    "tvName" : "炫动卡通"
+  },
+  {
+    "tvURL" : "http://111.39.226.103:8112/120000001001/wlds:8080/ysten-business/live/youmankaton/.m3u8",
+    "tvName" : "优漫卡通"
+  },
+  {
+    "tvURL" : "http://111.39.226.103:8112/120000001001/wlds:8080/ysten-business/live/jtiyu/.m3u8",
+    "tvName" : "YST精品体育"
+  },
+  {
+    "tvURL" : "http://111.39.226.103:8112/120000001001/wlds:8080/ysten-business/live/ljiankangyouyue/.m3u8",
+    "tvName" : "YST健康有约"
+  },
+  {
+    "tvURL" : "http://111.39.226.103:8112/120000001001/wlds:8080/ysten-business/live/junshipl/.m3u8",
+    "tvName" : "YST军事评论"
+  },
+  {
+    "tvURL" : "http://111.39.226.103:8112/120000001001/wlds:8080/ysten-business/live/live/saishijx/.m3u8",
+    "tvName" : "YST金牌综艺"
+  },
+  {
+    "tvURL" : "http://111.39.226.103:8112/120000001001/wlds:8080/ysten-business/live/jingpinjl/.m3u8",
+    "tvName" : "YST精品记录"
+  },
+  {
+    "tvURL" : "http://111.39.226.103:8112/120000001001/wlds:8080/ysten-business/live/jzongyi/.m3u8",
+    "tvName" : "YST精品综艺"
+  },
+  {
+    "tvURL" : "http://111.39.226.103:8112/120000001001/wlds:8080/ysten-business/live/jdianying/.m3u8",
+    "tvName" : "YST精品电影"
+  },
+  {
+    "tvURL" : "http://111.39.226.103:8112/120000001001/wlds:8080/ysten-business/live/jdaju/.m3u8",
+    "tvName" : "YST精品大剧"
+  },
+  {
+    "tvURL" : "http://111.39.226.103:8112/120000001001/wlds:8080/ysten-business/live/guzhuangjc/.m3u8",
+    "tvName" : "YST古装剧场"
+  },
+  {
+    "tvURL" : "http://111.39.226.103:8112/120000001001/wlds:8080/ysten-business/live/jiatingjc/.m3u8",
+    "tvName" : "YST家庭剧场"
+  },
+  {
+    "tvURL" : "http://111.39.226.103:8112/120000001001/wlds:8080/ysten-business/live/aiqingxj/.m3u8",
+    "tvName" : "YST爱情喜剧"
+  },
+  {
+    "tvURL" : "http://111.39.226.103:8112/120000001001/wlds:8080/ysten-business/live/junlvjc/.m3u8",
+    "tvName" : "YST军旅剧场"
+  },
+  {
+    "tvURL" : "http://111.39.226.103:8112/120000001001/wlds:8080/ysten-business/live/dongzuody/.m3u8",
+    "tvName" : "YST动作电影"
+  },
+  {
+    "tvURL" : "http://111.39.226.103:8112/120000001001/wlds:8080/ysten-business/live/mingxingdp/.m3u8",
+    "tvName" : "YST明星大片"
+  },
+  {
+    "tvURL" : "http://111.39.226.103:8112/120000001001/wlds:8080/ysten-business/live/xiqumd/.m3u8",
+    "tvName" : "YST海外剧场"
+  },
+  {
+    "tvURL" : "http://111.39.226.103:8112/120000001001/wlds:8080/ysten-business/live/jingsongxy/.m3u8",
+    "tvName" : "YST惊悚悬疑"
+  },
+  {
+    "tvURL" : "http://111.39.226.103:8112/120000001001/wlds:8080/ysten-business/live/donghuawg/.m3u8",
+    "tvName" : "YST动画王国"
+  },
+  {
+    "tvURL" : "http://111.39.226.103:8112/120000001001/wlds:8080/ysten-business/live/nongyezf/.m3u8",
+    "tvName" : "YST农业致富"
+  },
+  {
+    "tvURL" : "http://111.39.226.103:8112/120000001001/wlds:8080/ysten-business/live/wmyx/.m3u8",
+    "tvName" : "YST完美游戏"
+  }
+]

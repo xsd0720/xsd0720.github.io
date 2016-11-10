@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <title>电视节目</title>
+    <script type="text/javascript" src="jquery.js"></script>
+    <link href="stayle.css" rel="stylesheet" type="text/css">
+    <script type="text/javascript">     
+      document.oncontextmenu = function(){return false;};    
+       
+    </script> 
+    <script type="text/javascript">
+
+
+        function loadData(){
+            //请求/todo.json这个路径时，返回json文件
+            $.getJSON('huyang.json', function(data){
+                for (var i = 0; i < data.length; i++) {
+                    $('#test').append('<button url=' +data[i].tvURL  +'>' + data[i].tvName + '</button>');
+                }
+            
+
+                $("#test button").click(function(){
+
+                    var newUrl = $(this).attr('url');
+                    $("#player").attr('src',newUrl);
+                    $("#title").text('正在播放'+$(this).text());
+
+                });
+
+            });
+        }
+
+        loadData();
+    </script>
+</head>
+<body>
+
+<div id="test" class="test">
+</div>
+<div id="title" class="title">正在播放东方卫视</div>
+<div>
+    <video controls src="http://live136.bbn.com.cn/live/hls/1002.m3u8"  autoplay="false" id="player">
+
+    </video>
+
+    <!--<video controls autoplay >-->
+        <!--<source src="http://live136.bbn.com.cn/live/hls/1002.m3u8">-->
+    <!--</video>-->
+
+</div>
+
+</body>
+</html>
