@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <title>ufanw.com</title>
+    <script type="text/javascript" src="jquery.js"></script>
+    <link href="stayle.css" rel="stylesheet" type="text/css">
+    <script type="text/javascript">     
+      // document.oncontextmenu = function(){return false;};    
+       
+    </script> 
+    <script type="text/javascript">
+
+
+    function generateVIPURL()
+    {
+    	var orginURL = document.getElementById('textarea').value
+        if (checkeURL(orginURL)) {
+             orginURLBase64 = window.btoa(orginURL)
+            var rs = "http://vip.ufanw.com/play/play.html?url="+orginURLBase64.substring(0, 3)+"1"+orginURLBase64.substring(3)
+            window.location.href = rs
+        };
+      
+    	
+    }
+
+
+    function checkeURL(orginURL){ 
+        var str=orginURL;
+        //在JavaScript中，正则表达式只能使用"/"开头和结束，不能使用双引号 
+        var Expression=/http(s)?:////([\w-]+\.)+[\w-]+(\/[\w- .\/?%&=]*)?/; 
+        var objExp=new RegExp(Expression);  
+        if(objExp.test(str)==true){ 
+            return true; 
+        }else{ 
+            alert('你输入的URL无效'); 
+            return false; 
+        } 
+    }
+
+    </script>
+</head>
+<body>
+腾讯，爱奇艺vip播放链接获取
+<br/>
+orginURL: <input type="text" name="fname" id="textarea" style="width:300px;height:20px;" />
+<br/>
+<button class="button" onclick="generateVIPURL()">vipurl</button>
+
+</body>
+</html>
